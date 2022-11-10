@@ -1,0 +1,6 @@
+id=fusionGps
+name=Fusion GPS
+version=v1.0.0
+versionCode=1
+author=Fusion
+description=Improved gps.conf
