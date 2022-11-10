@@ -1,6 +1,6 @@
 # fusionGPS
 
-Optimized GPS - Magisk Module
+Optimized GPS - Magisk Module (flashable on Magisk 25.2)
 
 
 REFERENCE:
