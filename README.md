@@ -3,7 +3,7 @@
 Optimized GPS - Magisk Module (flashable on Magisk 25.2)
 
 - This is a port for compatibility with latest Magisk based on the references below. Feel free to propose updated and improved optimizations for gps.conf.
-- usage: in magisk, flash as usual the latest zip downloaded from <releases>
+- usage: in magisk, flash as usual the latest zip downloaded from releases
 
 REFERENCE:
 - https://github.com/PlqnK/magisk-supl-replacer/releases <<< this module installs on Magisk 25.2 (Aug '22)
